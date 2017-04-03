@@ -13,5 +13,5 @@ Code is entirely open sourced and I hope somebody will use it ;)
 Start page: NovaPredbiljezba.aspx
 
 Admin app login
-username: direktor
+username: direktor;
 password: direktor123
